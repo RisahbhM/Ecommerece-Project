@@ -1,4 +1,4 @@
-# Ecommerece-Project
+# E-Commerce-Project
 # E-Commerce Architecture on AWS – Order Management Project
 
 ## Overview
